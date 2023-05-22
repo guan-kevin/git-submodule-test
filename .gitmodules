@@ -1,0 +1,6 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/bugswarm/client
+[submodule "common"]
+	path = common
+	url = https://github.com/bugswarm/common
